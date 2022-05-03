@@ -1,0 +1,6 @@
+var stdin = process.openStdin();
+stdin.addListener("data", function(data){
+ 
+  let [a, b] = data.toString().split("\n").map((a) => parseInt(a.toString().trim()))
+console.log(a + b)
+})
