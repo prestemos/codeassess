@@ -1,0 +1,19 @@
+//The solutions should be written, for compiler compatibility : g++ 5.1
+
+#include <string> 
+#include <iostream> 
+ 
+using namespace std; 
+ 
+int main() 
+{ 
+  	int a, b;
+  	cin >> a;
+ 	cin >> b;
+  	cout << a + b;
+ 	//use cin to get console input
+  
+	//use cout to print console output
+  
+	return 0; 
+}
