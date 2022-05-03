@@ -1,4 +1,4 @@
-# codeassess
+# Codeassess
 
 Example code to write a program that takes two integers as input (one per line) and prints their sum as output.
   
