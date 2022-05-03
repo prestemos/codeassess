@@ -1,0 +1,11 @@
+<?php
+	//use the following commands to take inputs from console
+	//as per your input requirements
+	fscanf(STDIN, "%d", $a);
+	fscanf(STDIN, "%d", $b);
+	$c = $a + $b;
+	//use the following command to print the output to console
+	//echo &apos;Hello World!&apos;;
+	//echo $x;
+	echo $c;
+?>
