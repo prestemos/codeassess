@@ -1,0 +1,4 @@
+#Only use input() to get input from the console
+a = int(input())
+b = int(input())
+print(a+b)
