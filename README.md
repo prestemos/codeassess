@@ -11,5 +11,5 @@ The output of the program will be:
 
 5
 
-**NOTE: Some exercises gives multiple inputs in one line separated by spaces you need to read the line and split the values**
+**NOTE: Some exercises gives multiple inputs in one line separated by spaces you need to read the line and split the values**\
 **NOTE 2: All prints to console are considered part of the output**
